@@ -18,7 +18,7 @@
 ### Установка модуля
 * Установить пакет:
 ```
-        pip install git+https://github.com/yandex-money/yandex-money-kit-django.git
+        pip install git+https://github.com/sunw41ker/yandex-money-kit-django.git
 ```
 * Добавить ``yandex_money`` в ``settings.INSTALLED_APPS``:
 ```
